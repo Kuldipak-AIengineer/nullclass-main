@@ -45,7 +45,7 @@ Due to GitHub's file size limit, some files were removed from version control:
 - Landmark predictors (`*.dat`)
 - Large video files (`*.mp4`)
 
-> You can manually download these files from [Google Drive](#) *(link to be added)* and place them in the appropriate folders.
+
 
 ---
 
